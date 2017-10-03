@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>393134588210-d3fnri7ccpbv6r3gg2qhvik9rjbj5to8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.393134588210-d3fnri7ccpbv6r3gg2qhvik9rjbj5to8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAB70x3wYvysEJ2dJyeqcKo1dbip90yuBY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>393134588210</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>steven.TextSnap</string>
+	<key>PROJECT_ID</key>
+	<string>textsnap-a46d9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>textsnap-a46d9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:393134588210:ios:22b1ccf8a034df9e</string>
+	<key>DATABASE_URL</key>
+	<string>https://textsnap-a46d9.firebaseio.com</string>
+</dict>
+</plist>
